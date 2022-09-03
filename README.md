@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Chaerul Chas](https://svgshare.com/i/mKU.svg)    ![Chaerul Chas](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)
 
 I'm a Fullstack Developer at [XADEX](https://xadex.org) in Jambi, Indonesia 🌆
 
