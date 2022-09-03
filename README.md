@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm a Fullstack Developer at [Very Good Ventures](https://verygood.ventures) in Chicago, IL 🌆
+I'm a Fullstack Developer at [XADEX](https://xadex.org) in Jambi, Indonesia 🌆
 
-- 🔭 I’m currently working on the [bloc library](https://bloclibrary.dev)
-- ☕ I’m learning how to make latte art
+- 🔭 I’m currently working on the [XADEX](https://xadex.org)
+- 💕 Coding with Love HAHA
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
+- 💬 Ask me about [OSINT](#) and [Javascript](https://javascript.org).
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have a pet bunny named Coco 🐰
+- ⚡ Fun fact: Im Eat too much but don't get fat !
 
 ### Open Source Projects
 
