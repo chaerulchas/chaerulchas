@@ -12,7 +12,7 @@ I'm a Fullstack Developer at [XADEX](https://xadex.org) in Jambi, Indonesia 🌆
 
 ### Open Source Projects
 
-[![Bloc](https://github-readme-stats.vercel.app/api/pin/?username=chaerulchas&repo=telegram-miner-client)](https://github.com/chaerulchas/telegram-miner-client)
+[![Telegram Miner](https://github-readme-stats.vercel.app/api/pin/?username=chaerulchas&repo=telegram-miner-client)](https://github.com/chaerulchas/telegram-miner-client)
 
 ### Github Stats
 
